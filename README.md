@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="<img width="100" height="98" alt="rank_1" src="https://github.com/user-attachments/assets/bf3e39dd-8b78-4618-8b77-01bc54572eca" />
-m/SeuBannerAqui.png" alt="WoW PvP Rank Verifier" width="600px" />
+  <img src="[https://i.imgur.com/SeuBannerAqui.png](https://pvpq.net/assets/rank_10-DF4HTS_B.png)" alt="WoW PvP Rank Verifier" width="600px" />
 
   <h1>WoW PvP Rank Verifier Bot</h1>
 
