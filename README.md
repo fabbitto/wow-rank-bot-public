@@ -41,11 +41,11 @@ Ideal para ladders, guilds PvP, torneios, servidores hardcore WoW.
 ## Preview
 
 <div align="center">
-  <img src="https://imgur.com/a/qVwmzW6" alt="Botão Verificar" width="400" />
+  <img src="https://i.imgur.com/1gnXnAD.png" alt="Botão Verificar" width="400" />
   <br><br>
-  <img src="https://imgur.com/R0YYYvI" alt="Mensagem de sucesso" width="500" />
+  <img src="https://i.imgur.com/R0YYYvI.png" alt="Mensagem de sucesso" width="500" />
   <br><br>
-  <img src="https://imgur.com/YaVcwwO" alt="Cargos atribuídos" width="600" />
+  <img src="https://i.imgur.com/YaVcwwO.png" alt="Cargos atribuídos" width="600" />
 </div>
 
 ## Por que o código é privado?
