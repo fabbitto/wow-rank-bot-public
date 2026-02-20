@@ -41,11 +41,11 @@ Ideal para ladders, guilds PvP, torneios, servidores hardcore WoW.
 ## Preview
 
 <div align="center">
-  <img src="https://i.imgur.com/SuaImagemBotaoAqui.png" alt="Botão Verificar" width="400" />
+  <img src="https://imgur.com/a/qVwmzW6" alt="Botão Verificar" width="400" />
   <br><br>
-  <img src="https://i.imgur.com/SuaImagemMensagemAqui.png" alt="Mensagem de sucesso" width="500" />
+  <img src="https://imgur.com/R0YYYvI" alt="Mensagem de sucesso" width="500" />
   <br><br>
-  <img src="https://i.imgur.com/SuaImagemCargosAqui.png" alt="Cargos atribuídos" width="600" />
+  <img src="https://imgur.com/YaVcwwO" alt="Cargos atribuídos" width="600" />
 </div>
 
 ## Por que o código é privado?
@@ -74,7 +74,7 @@ O conceito é simples e replicável — mas essa versão é exclusiva e blindada
 
 Se precisar de ajuda ou quiser trocar ideia sobre PvP bots, me chama:
 
-- **Discord**: @fabricioqroz2
+- **Discord**: faelz1
 - **X**: [@fabricioqroz2](https://x.com/fabricioqroz2)
 
 Feito com ❤️ para a comunidade WoW PvP competitiva.
