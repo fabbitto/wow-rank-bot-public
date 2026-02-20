@@ -18,7 +18,7 @@
 
   <br />
 
-  [![Discord](https://img.shields.io/discord/N6ksUgS4aU?color=5865F2&label=Servidor&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/N6ksUgS4aU)
+  [![Discord](https://img.shields.io/discord/1190646313428201553?color=5865F2&label=Servidor&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/N6ksUgS4aU)
 
 </div>
 
